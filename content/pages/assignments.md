@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cf36f31f-70dd-f7ad-52e8-e74cc8afb65d
 ---

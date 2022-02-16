@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19b1d416-2c63-bbbe-e939-b26b6a767bda
 title: Form and Function of Teamwork in the Course
 uid: c7f31517-bacc-32a5-565b-0290b90acb62

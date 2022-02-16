@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Games
 uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 ---
