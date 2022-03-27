@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: 11.127J EconSim Final Paper
 uid: 0a06478b-3d0d-db53-8961-667fe406de28

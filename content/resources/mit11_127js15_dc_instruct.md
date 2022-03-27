@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: 11.127J S15 Divide and Conquer Game Instructions
 uid: 7222c936-198b-8936-adc7-800cd24bd085

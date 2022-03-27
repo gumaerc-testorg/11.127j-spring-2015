@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: '11.127J Divide and Conquer: Game Evolution'
 uid: f44bb1c4-6b0b-4fe9-c631-4c75525ad187

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: 11.127J Divide and Conquer Background Info
 uid: 3b886cd2-5daa-6d2f-639e-97cafc929b30

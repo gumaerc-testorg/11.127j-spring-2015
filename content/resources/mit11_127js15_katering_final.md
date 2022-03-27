@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: 11.127J Klopfer's Krazy Katering Final Paper
 uid: d10ca108-9052-bad7-3bcc-8ef43009f01c

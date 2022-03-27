@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Games
 parent_type: CourseSection
+parent_uid: 7c3cdcb8-8ea1-7296-cda3-ec9241ee1af9
 resourcetype: Document
 title: '11.127J Cellular Metabolism Game: Cell Board'
 uid: f88bffe5-76e8-b202-bf1f-089a9d22985c
