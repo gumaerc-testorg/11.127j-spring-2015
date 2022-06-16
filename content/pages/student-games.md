@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a sampling of student work produced in the course,
+  representing games that were easy to display or share online.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Games
@@ -13,27 +15,27 @@ Board Games
 
 ### Divide and Conquer
 
-[Background Info (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_info)
+{{% resource_link 3b886cd2-5daa-6d2f-639e-97cafc929b30 "Background Info (PDF)" %}}
 
-[Game Instructions (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_instruct)
+{{% resource_link 7222c936-198b-8936-adc7-800cd24bd085 "Game Instructions (PDF)" %}}
 
-[Game Board (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_board) 
+{{% resource_link f88bffe5-76e8-b202-bf1f-089a9d22985c "Game Board (PDF)" %}} 
 
-Game Pieces: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Enzyme Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_enzyme), ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Event Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_event), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Multiplier Cards (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_multiply)
+Game Pieces: {{% resource_link ec5e6ff1-02fd-e7f6-b344-6783acf78a90 "Enzyme Cards (PDF)" %}}, {{% resource_link 9b5e7914-2cfb-e325-528e-5fdb769e58af "Event Cards (PDF)" %}}, and {{% resource_link b0633cf5-4933-e630-dac5-4786d161db26 "Multiplier Cards (PDF)" %}}
 
-[Game History (PDF)]({{< baseurl >}}/resources/mit11_127js15_dc_history)
+{{% resource_link f44bb1c4-6b0b-4fe9-c631-4c75525ad187 "Game History (PDF)" %}}
 
 ### Escápe
 
-[Game Instructions (PDF)]({{< baseurl >}}/resources/mit11_127js15_esc_instruct)
+{{% resource_link 7d780fe4-8167-6d06-4465-1e6887b80bca "Game Instructions (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Game Pieces (PDF)]({{< baseurl >}}/resources/mit11_127js15_esc_pieces)
+{{% resource_link 00c3c5db-6461-7b16-a084-fd78841fe45d "Game Pieces (PDF)" %}}
 
 ### Take the Cake
 
-[Game Instructions (PDF)]({{< baseurl >}}/resources/mit11_127js15_cake_instrct)
+{{% resource_link 9d034248-1919-97d9-a158-47db864f7285 "Game Instructions (PDF)" %}}
 
-[Game Pieces (PDF)]({{< baseurl >}}/resources/mit11_127js15_cake_pieces)
+{{% resource_link a3d388fa-e628-006f-1bdb-046eb8d52676 "Game Pieces (PDF)" %}}
 
 Digital Games
 -------------
@@ -42,10 +44,10 @@ Digital Games
 
 [Game](/ans7870/11/11.127/s15/econsim/map.html)
 
-[Final Paper (PDF)]({{< baseurl >}}/resources/mit11_127js15_econsim_final)
+{{% resource_link 0a06478b-3d0d-db53-8961-667fe406de28 "Final Paper (PDF)" %}}
 
 ### Klopfer's Krazy Katering
 
 [Game](/ans7870/11/11.127/s15/katering/index.html)
 
-[Final Paper (PDF)]({{< baseurl >}}/resources/mit11_127js15_katering_final)
+{{% resource_link d10ca108-9052-bad7-3bcc-8ef43009f01c "Final Paper (PDF)" %}}

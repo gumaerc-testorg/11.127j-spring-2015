@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Eric Klopfer shares that 11.127J Computer
+  Games and Simulations for Education and Exploration aligns with his research interests.
+  He also discusses how his research informs his teaching and vice versa.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Professor Eric Klopfer describes how teams form and
+  function in 11.127J Computer Games and Simulations for Education and Exploration.
+  He also shares his insights about the importance of having students reflect on how
+  their teams functioned, as well as how he approaches grading when students complete
+  projects as teams.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

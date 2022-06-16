@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Professor Eric Klopfer shares tips for facilitating
+  learning in a project-based course. He discusses the importance of providing ongoing
+  feedback, of adapting the curriculum each year to meet the needs of new students,
+  and of clarifying what kind of learning experience students can expect to have in
+  a project-based course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

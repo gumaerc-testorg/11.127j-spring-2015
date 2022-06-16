@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Professor Eric Klopfer shares his reflections about
+  the Gamer Profile assignment in 11.127J Computer Games and Simulations for Education
+  and Exploration. He discusses how the assignment is designed to challenge assumptions
+  about who gamers are and what they play. He also shares why he does not allow students
+  to present their gamer profiles in the form of papers or PowerPoint presentations.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
