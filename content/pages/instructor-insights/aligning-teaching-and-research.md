@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Professor Eric Klopfer shares that 11.127J Computer
+  Games and Simulations for Education and Exploration aligns with his research interests.
+  He also discusses how his research informs his teaching and vice versa.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19b1d416-2c63-bbbe-e939-b26b6a767bda
 title: Aligning Teaching and Research
 uid: 8681d81d-9d5d-781b-c4ca-d3b7d2fb3f4f
