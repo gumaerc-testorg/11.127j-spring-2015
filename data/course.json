@@ -36,7 +36,8 @@
   "course_title": "Computer Games and Simulations for Education and Exploration",
   "course_description": "This course immerses students in the process of building and testing their own digital and board games in order to better understand how we learn from games. We explore the design and use of games in the classroom in addition to research and development issues associated with computer\u2013based (desktop and handheld) and non\u2013computer\u2013based media. In developing their own games, students examine what and how people learn from them (including field testing of products), as well as how games can be implemented in educational settings.\n",
   "department_numbers": [
-    "11"
+    "11",
+    "CMS-W"
   ],
   "extra_course_numbers": "CMS.590J,CMS.836J,11.252J",
   "primary_course_number": "11.127J",
@@ -45,8 +46,10 @@
     "website": "11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015"
   },
   "learning_resource_types": [
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "04eaa7ea-9157-4c76-8887-a2979013e2cd",
+  "site_uid": "a5bdc9d4-d3b4-4a34-b1b0-5434a549aa14",
+  "site_short_id": "11.127j-spring-2015",
   "title": "Course Metadata"
 }
