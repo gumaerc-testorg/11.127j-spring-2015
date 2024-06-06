@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding divide and
   conquer game evolution.
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/f44bb1c46b0b4fe9c6314c75525ad187_MIT11_127JS15_DC_history.pdf
+file_size: 569486
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
