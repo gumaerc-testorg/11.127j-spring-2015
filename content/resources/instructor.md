@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/f0bb3d7f99ebbfc93b64b08e680a99df_instructor.JPG
+file_size: 55735
 file_type: image/jpeg
 image_metadata:
   caption: ''
