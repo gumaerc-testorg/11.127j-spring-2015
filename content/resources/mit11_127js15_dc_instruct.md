@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding game instructions.
 file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/7222c936198b8936adc7800cd24bd085_MIT11_127JS15_DC_instruct.pdf
+file_size: 730916
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
