@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding divide and
   conquer multiplier cards.
-file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/b0633cf54933e630dac54786d161db26_MIT11_127JS15_DC_multiply.pdf
+file: /ol-ocw-studio-app/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/b0633cf54933e630dac54786d161db26_MIT11_127JS15_DC_multiply.pdf
 file_size: 503010
 file_type: application/pdf
 learning_resource_types: []
