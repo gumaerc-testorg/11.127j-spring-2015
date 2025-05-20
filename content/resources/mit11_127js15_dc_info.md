@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding background
   info.
-file: /ol-ocw-studio-app/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/3b886cd25daa6d2f639e97cafc929b30_MIT11_127JS15_DC_info.pdf
+file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/3b886cd25daa6d2f639e97cafc929b30_MIT11_127JS15_DC_info.pdf
 file_size: 129221
 file_type: application/pdf
 learning_resource_types: []
