@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The final paper for the EconSim game. '
-file: /ol-ocw-studio-app/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/0a06478b3d0ddb538961667fe406de28_MIT11_127JS15_econsim_final.pdf
+file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/0a06478b3d0ddb538961667fe406de28_MIT11_127JS15_econsim_final.pdf
 file_size: 192623
 file_type: application/pdf
 learning_resource_types: []
