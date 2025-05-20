@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding divide and
   conquer event cards.
-file: /ol-ocw-studio-app/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/9b5e79142cfbe325528e5fdb769e58af_MIT11_127JS15_DC_event.pdf
+file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/9b5e79142cfbe325528e5fdb769e58af_MIT11_127JS15_DC_event.pdf
 file_size: 567527
 file_type: application/pdf
 learning_resource_types: []
