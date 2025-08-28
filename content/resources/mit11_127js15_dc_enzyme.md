@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding enzyme cards.
-file: /courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/ec5e6ff102fde7f6b3446783acf78a90_MIT11_127JS15_DC_enzyme.pdf
+file: /ol-ocw-studio-app/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/ec5e6ff102fde7f6b3446783acf78a90_MIT11_127JS15_DC_enzyme.pdf
 file_size: 77786
 file_type: application/pdf
 learning_resource_types: []
